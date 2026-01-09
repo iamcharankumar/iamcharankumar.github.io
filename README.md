@@ -14,7 +14,7 @@
 Proud contributor to [mcp-selenium](https://github.com/angiejones/mcp-selenium/pull/26), a Claude-native Selenium MCP server maintained by [Angie Jones](https://github.com/angiejones).<br><br>
 Proud contributor to [playcraft](https://github.com/sudharsan-selvaraj/playcraft), a Visual Playwright IDE with live browser preview and real-time test execution. [PR 1](https://github.com/sudharsan-selvaraj/playcraft/pull/2), [PR 2](https://github.com/sudharsan-selvaraj/playcraft/pull/6)</align> 
 
-  ### Lead SDET at [Zeta](https://www.zeta.tech/in/) | Test Automation Expert
+  ### Principal Software Engineer In Test at [Kredivo Group](https://kredivocorp.com/) | Test Automation Expert
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Test+Automation+Specialist;API+Testing+Expert;Continuous+Integration+Enthusiast;Quality+Engineering+Leader" alt="Typing SVG" />
 </div>
